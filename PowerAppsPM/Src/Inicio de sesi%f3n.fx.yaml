@@ -12,7 +12,7 @@
         FontWeight: =FontWeight.Semibold
         Height: =110
         Size: =60
-        Text: ="Sign in"
+        Text: ="Log in"
         Width: =251
         X: =201
         Y: =759
@@ -23,6 +23,10 @@
         Default: =""
         Height: =70
         HintText: ="Email"
+        RadiusBottomLeft: =50
+        RadiusBottomRight: =50
+        RadiusTopLeft: =50
+        RadiusTopRight: =50
         Size: =21
         Width: =560
         X: =45
@@ -34,6 +38,10 @@
         Default: =""
         Height: =70
         HintText: ="Password"
+        RadiusBottomLeft: =100
+        RadiusBottomRight: =100
+        RadiusTopLeft: =100
+        RadiusTopRight: =100
         Size: =21
         Width: =560
         X: =45
@@ -65,8 +73,9 @@
         Fill: =RGBA(0, 0, 0, 0)
         FontWeight: =FontWeight.Bold
         Height: =53
+        OnSelect: =Navigate(Registrarse,ScreenTransition.Fade)
         Size: =24
-        Text: ="Sing up"
+        Text: ="Sign up"
         Width: =153
         X: =452
         Y: =1012
