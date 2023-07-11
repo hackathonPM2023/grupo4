@@ -1,17 +1,30 @@
 Vectors As screen:
 
     Rectangle1_1 As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =8
         Fill: =RGBA(255, 0, 0, 1)
-        Height: =179
+        Height: =209
         Width: =640
         ZIndex: =1
 
     Button1 As button:
         Align: =Align.Left
         Fill: =RGBA(0, 0, 0, 1)
-        Height: =179
+        Height: =122
+        OnSelect: =Navigate(Homepage,ScreenTransition.Fade)
         Size: =100
         Text: ="<"
-        Width: =173
+        Width: =133
         ZIndex: =2
+
+    Label3 As label:
+        Align: =Align.Center
+        FontWeight: =FontWeight.Semibold
+        Height: =209
+        Size: =50
+        Text: ="Introduction to vectors"
+        Width: =507
+        X: =133
+        ZIndex: =3
 
