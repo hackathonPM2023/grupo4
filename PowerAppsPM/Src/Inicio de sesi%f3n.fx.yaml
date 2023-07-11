@@ -15,7 +15,7 @@
         Text: ="Sign in"
         Width: =251
         X: =201
-        Y: =759
+        Y: =796
         ZIndex: =1
 
     TextInput1 As text:
@@ -57,7 +57,7 @@
         Text: ="Not on Bridge Academy yet?"
         Width: =427
         X: =45
-        Y: =1012
+        Y: =992
         ZIndex: =6
 
     Button2 As button:
@@ -69,7 +69,7 @@
         Text: ="Sing up"
         Width: =153
         X: =452
-        Y: =1012
+        Y: =992
         ZIndex: =7
 
     Image3 As image:

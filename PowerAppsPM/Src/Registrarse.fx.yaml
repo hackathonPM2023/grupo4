@@ -1,5 +1,5 @@
 Registrarse As screen:
-    Fill: =RGBA(227, 234, 243, 1)
+    Fill: =RGBA(241, 244, 249, 1)
 
     Label4_1 As label:
         Align: =Align.Center
@@ -7,13 +7,13 @@ Registrarse As screen:
         Height: =89
         Size: =50
         Text: ="Sign up"
-        Width: =498
-        X: =76
-        Y: =340
+        Width: =338
+        X: =155
+        Y: =350
         ZIndex: =5
 
     TextInput1_1 As text:
-        BorderColor: =RGBA(99, 139, 44, 1)
+        BorderColor: =RGBA(152, 208, 70, 1)
         Default: =""
         Height: =70
         HintText: ="Email"
@@ -30,7 +30,44 @@ Registrarse As screen:
         HintText: ="Password"
         Size: =21
         Width: =560
-        X: =65
-        Y: =621
+        X: =45
+        Y: =760
         ZIndex: =7
+
+    TextInput2_2 As text:
+        BorderColor: =RGBA(152, 208, 70, 1)
+        Default: =""
+        Height: =70
+        HintText: ="Name"
+        Size: =21
+        Width: =560
+        X: =45
+        Y: =615
+        ZIndex: =8
+
+    Label3_1 As label:
+        Align: =Align.Center
+        BorderColor: =RGBA(152, 208, 70, 1)
+        BorderThickness: =5
+        Color: =RGBA(0, 121, 187, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        FocusedBorderThickness: =10
+        Font: =Font.'Lato Black'
+        FontWeight: =FontWeight.Semibold
+        Height: =110
+        OnSelect: =Navigate(Homepage;ScreenTransition.Fade)
+        Size: =60
+        Text: ="Sign in"
+        Width: =251
+        X: =199
+        Y: =915
+        ZIndex: =9
+
+    Image3_1 As image:
+        Height: =320
+        Image: ='2308227'
+        Width: =320
+        X: =165
+        Y: =46
+        ZIndex: =10
 
