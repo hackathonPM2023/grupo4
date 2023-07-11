@@ -78,7 +78,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Button2",
-      "ParentIndex": 5,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -930,7 +930,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Label4",
-      "ParentIndex": 2,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1192,7 +1192,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Label5",
-      "ParentIndex": 4,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1475,7 +1475,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "TextInput1",
-      "ParentIndex": 1,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
