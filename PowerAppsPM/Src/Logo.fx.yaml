@@ -1,5 +1,5 @@
 Logo As screen:
-    Fill: =RGBA(175, 191, 224, 1)
+    Fill: =RGBA(241, 244, 249, 1)
 
     Image1 As image:
         Height: =320
