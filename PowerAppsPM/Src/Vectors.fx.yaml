@@ -19,25 +19,14 @@ Vectors As screen:
         Width: =133
         ZIndex: =2
 
-    Label3 As label:
-        Align: =Align.Center
-        BorderColor: =RGBA(255, 255, 255, 1)
-        DisabledBorderColor: =RGBA(255, 255, 255, 1)
-        FontWeight: =FontWeight.Semibold
-        Height: =209
-        Size: =50
-        Text: ="Introduction to vectors"
-        Width: =487
-        X: =153
-        ZIndex: =3
-
     Video1 As videoPlayback:
         BorderColor: =RGBA(250, 155, 112, 1)
         BorderThickness: =7
+        Fill: =RGBA(0, 0, 0, 0)
         Height: =349
         Width: =578
-        X: =32
-        Y: =376
+        X: =31
+        Y: =352
         ZIndex: =4
 
     Label9 As label:
@@ -45,8 +34,8 @@ Vectors As screen:
         Size: =25
         Text: ="Reinforces what you've learned.."
         Width: =529
-        X: =56
-        Y: =853
+        X: =31
+        Y: =842
         ZIndex: =5
 
     Icon1 As icon.ChevronDown:
@@ -57,4 +46,26 @@ Vectors As screen:
         Width: =99
         X: =17
         ZIndex: =6
+
+    Button4 As button:
+        BorderColor: =
+        Color: =RGBA(0, 0, 0, 1)
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =50
+        Size: =30
+        Text: ="> Click on the link"
+        Width: =376
+        X: =31
+        Y: =930
+        ZIndex: =6
+
+    Label8 As label:
+        Align: =Align.Center
+        FontWeight: =FontWeight.Semibold
+        Height: =209
+        Size: =50
+        Text: ="Introduction to vectors"
+        Width: =531
+        X: =109
+        ZIndex: =7
 

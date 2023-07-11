@@ -72,19 +72,3 @@
         Y: =3
         ZIndex: =9
 
-    Button3 As button:
-        Color: =RGBA(0, 0, 0, 1)
-        Fill: =RGBA(255, 255, 255, 1)
-        Height: =93
-        OnSelect: =Navigate(Homepage,ScreenTransition.Fade)
-        RadiusBottomLeft: =40
-        RadiusBottomRight: =40
-        RadiusTopLeft: =40
-        RadiusTopRight: =40
-        Size: =50
-        Text: ="Log in"
-        Width: =280
-        X: =172
-        Y: =790
-        ZIndex: =10
-
