@@ -113,7 +113,7 @@
     "Id": "dbc1eec4-13c4-442b-b06a-0357457cfc8b",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "Bridge Academy",
     "OriginatingVersion": "1.333",
     "ParserErrorCount": 0,
