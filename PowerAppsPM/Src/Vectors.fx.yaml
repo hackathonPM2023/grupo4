@@ -48,3 +48,13 @@ Vectors As screen:
         Y: =930
         ZIndex: =6
 
+    Label8 As label:
+        Align: =Align.Center
+        FontWeight: =FontWeight.Semibold
+        Height: =209
+        Size: =50
+        Text: ="Introduction to vectors"
+        Width: =531
+        X: =109
+        ZIndex: =7
+
