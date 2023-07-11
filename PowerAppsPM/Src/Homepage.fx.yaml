@@ -27,17 +27,17 @@ Homepage As screen:
 
     Rectangle3 As rectangle:
         Fill: =RGBA(250, 155, 112, 1)
-        Height: =251
-        Width: =234
-        X: =35
-        Y: =268
+        Height: =263
+        Width: =267
+        X: =20
+        Y: =276
         ZIndex: =4
 
-    Image2 As image:
-        Height: =158
-        Image: ='2784386'
-        Width: =186
-        X: =59
-        Y: =343
+    Image3 As image:
+        Height: =211
+        Image: ='170849'
+        Width: =196
+        X: =54
+        Y: =308
         ZIndex: =5
 
