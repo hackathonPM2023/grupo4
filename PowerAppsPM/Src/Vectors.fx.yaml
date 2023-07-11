@@ -3,7 +3,7 @@ Vectors As screen:
     Rectangle1_1 As rectangle:
         BorderColor: =RGBA(0, 0, 0, 1)
         BorderThickness: =8
-        Fill: =RGBA(255, 0, 0, 1)
+        Fill: =RGBA(255, 0, 0, 0.69)
         Height: =209
         Width: =640
         ZIndex: =1
@@ -15,7 +15,7 @@ Vectors As screen:
         OnSelect: =Navigate(Homepage,ScreenTransition.Fade)
         Size: =100
         Text: ="<"
-        Width: =133
+        Width: =109
         ZIndex: =2
 
     Label3 As label:
@@ -27,4 +27,22 @@ Vectors As screen:
         Width: =507
         X: =133
         ZIndex: =3
+
+    Video1 As videoPlayback:
+        BorderColor: =RGBA(255, 0, 0, 1)
+        BorderThickness: =7
+        Height: =349
+        Width: =578
+        X: =32
+        Y: =376
+        ZIndex: =4
+
+    Label9 As label:
+        Height: =65
+        Size: =25
+        Text: ="Reinforces what you've learned.."
+        Width: =529
+        X: =56
+        Y: =853
+        ZIndex: =5
 
