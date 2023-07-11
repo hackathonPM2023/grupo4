@@ -1,65 +1,83 @@
 Registrarse As screen:
-    Fill: =RGBA(241, 244, 249, 1)
+    Fill: =RGBA(255, 255, 255, 1)
+
+    Image2_1 As image:
+        Height: =453
+        Image: ='2308227'
+        Width: =433
+        X: =108
+        Y: =3
+        ZIndex: =1
 
     Label4_1 As label:
         Align: =Align.Center
         FontWeight: =FontWeight.Semibold
-        Height: =89
+        Height: =178
         Size: =50
-        Text: ="Sign up"
-        Width: =338
-        X: =155
-        Y: =350
-        ZIndex: =5
+        Text: ="Welcome to Bridge Academy"
+        Width: =560
+        X: =44
+        Y: =346
+        ZIndex: =2
 
     TextInput1_1 As text:
         BorderColor: =RGBA(152, 208, 70, 1)
         Default: =""
         Height: =70
         HintText: ="Email"
+        RadiusBottomLeft: =50
+        RadiusBottomRight: =50
+        RadiusTopLeft: =50
+        RadiusTopRight: =50
         Size: =21
         Width: =560
         X: =45
-        Y: =471
-        ZIndex: =6
+        Y: =545
+        ZIndex: =3
 
     TextInput2_1 As text:
         BorderColor: =RGBA(152, 208, 70, 1)
         Default: =""
         Height: =70
         HintText: ="Password"
+        RadiusBottomLeft: =50
+        RadiusBottomRight: =50
+        RadiusTopLeft: =50
+        RadiusTopRight: =50
         Size: =21
         Width: =560
         X: =45
-        Y: =760
-        ZIndex: =7
+        Y: =800
+        ZIndex: =4
 
     TextInput2_2 As text:
         BorderColor: =RGBA(152, 208, 70, 1)
         Default: =""
         Height: =70
         HintText: ="Name"
+        RadiusBottomLeft: =50
+        RadiusBottomRight: =50
+        RadiusTopLeft: =50
+        RadiusTopRight: =50
         Size: =21
         Width: =560
         X: =45
-        Y: =615
-        ZIndex: =8
+        Y: =671
+        ZIndex: =5
 
-    Label3_1 As label:
-        Align: =Align.Center
-        BorderColor: =RGBA(152, 208, 70, 1)
-        BorderThickness: =5
-        Color: =RGBA(0, 121, 187, 1)
+    Button3_1 As button:
+        Color: =RGBA(0, 0, 0, 1)
         Fill: =RGBA(255, 255, 255, 1)
-        FocusedBorderThickness: =10
-        Font: =Font.'Lato Black'
-        FontWeight: =FontWeight.Semibold
-        Height: =110
-        OnSelect: =Navigate(Homepage;ScreenTransition.Fade)
-        Size: =60
-        Text: ="Sign in"
-        Width: =251
-        X: =199
-        Y: =915
-        ZIndex: =9
+        Height: =93
+        OnSelect: =Navigate(Homepage,ScreenTransition.Fade)
+        RadiusBottomLeft: =40
+        RadiusBottomRight: =40
+        RadiusTopLeft: =40
+        RadiusTopRight: =40
+        Size: =50
+        Text: ="Log in"
+        Width: =280
+        X: =185
+        Y: =930
+        ZIndex: =6
 

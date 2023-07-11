@@ -1,0 +1,38 @@
+Vectors As screen:
+
+    Rectangle1_1 As rectangle:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =8
+        Fill: =RGBA(255, 0, 0, 0.69)
+        Height: =209
+        Width: =640
+        ZIndex: =1
+
+    Button1 As button:
+        Align: =Align.Left
+        Fill: =RGBA(0, 0, 0, 1)
+        Height: =122
+        OnSelect: =Navigate(Homepage,ScreenTransition.Fade)
+        Size: =100
+        Text: ="<"
+        Width: =109
+        ZIndex: =2
+
+    Video1 As videoPlayback:
+        BorderColor: =RGBA(255, 0, 0, 1)
+        BorderThickness: =7
+        Height: =349
+        Width: =578
+        X: =32
+        Y: =376
+        ZIndex: =4
+
+    Label9 As label:
+        Height: =65
+        Size: =25
+        Text: ="Reinforces what you've learned.."
+        Width: =529
+        X: =56
+        Y: =853
+        ZIndex: =5
+
