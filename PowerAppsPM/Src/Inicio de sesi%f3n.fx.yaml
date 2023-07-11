@@ -1,22 +1,5 @@
 "'Inicio de sesión' As screen":
-    Fill: =RGBA(241, 244, 249, 1)
-
-    Label3 As label:
-        Align: =Align.Center
-        BorderColor: =RGBA(152, 208, 70, 1)
-        BorderThickness: =5
-        Color: =RGBA(0, 121, 187, 1)
-        Fill: =RGBA(255, 255, 255, 1)
-        FocusedBorderThickness: =10
-        Font: =Font.'Lato Black'
-        FontWeight: =FontWeight.Semibold
-        Height: =110
-        Size: =60
-        Text: ="Log in"
-        Width: =251
-        X: =201
-        Y: =759
-        ZIndex: =1
+    Fill: =Navigate(Homepage,ScreenTransition.Fade)
 
     TextInput1 As text:
         BorderColor: =RGBA(152, 208, 70, 1)
@@ -80,4 +63,24 @@
         X: =452
         Y: =1012
         ZIndex: =7
+
+    Button1 As button:
+        BorderColor: =Navigate(Homepage
+        Color: =RGBA(0, 0, 0, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =115
+        Size: =60
+        Text: ="Log in"
+        Width: =359
+        X: =145
+        Y: =788
+        ZIndex: =8
+
+    Image2 As image:
+        Height: =453
+        Image: ='2308227'
+        Width: =433
+        X: =108
+        Y: =3
+        ZIndex: =9
 
