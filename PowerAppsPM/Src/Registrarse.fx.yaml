@@ -12,12 +12,12 @@ Registrarse As screen:
     Label4_1 As label:
         Align: =Align.Center
         FontWeight: =FontWeight.Semibold
-        Height: =89
+        Height: =178
         Size: =50
-        Text: ="Sign up"
-        Width: =338
-        X: =155
-        Y: =350
+        Text: ="Welcome to Bridge Academy"
+        Width: =560
+        X: =44
+        Y: =346
         ZIndex: =2
 
     TextInput1_1 As text:
@@ -32,7 +32,7 @@ Registrarse As screen:
         Size: =21
         Width: =560
         X: =45
-        Y: =471
+        Y: =545
         ZIndex: =3
 
     TextInput2_1 As text:
@@ -47,7 +47,7 @@ Registrarse As screen:
         Size: =21
         Width: =560
         X: =45
-        Y: =760
+        Y: =800
         ZIndex: =4
 
     TextInput2_2 As text:
@@ -62,19 +62,22 @@ Registrarse As screen:
         Size: =21
         Width: =560
         X: =45
-        Y: =615
+        Y: =671
         ZIndex: =5
 
-    Button1_1 As button:
-        BorderColor: =Navigate(Homepage,ScreenTransition.Fade)
+    Button3_1 As button:
         Color: =RGBA(0, 0, 0, 1)
         Fill: =RGBA(255, 255, 255, 1)
-        Height: =115
+        Height: =93
         OnSelect: =Navigate(Homepage,ScreenTransition.Fade)
-        Size: =60
+        RadiusBottomLeft: =40
+        RadiusBottomRight: =40
+        RadiusTopLeft: =40
+        RadiusTopRight: =40
+        Size: =50
         Text: ="Log in"
-        Width: =359
-        X: =144
-        Y: =924
+        Width: =280
+        X: =185
+        Y: =930
         ZIndex: =6
 
