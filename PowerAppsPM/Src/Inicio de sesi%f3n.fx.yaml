@@ -2,16 +2,17 @@
     Fill: =RGBA(241, 244, 249, 1)
 
     Label3 As label:
+        Align: =Align.Center
         BorderColor: =RGBA(0, 0, 0, 1)
         Color: =RGBA(0, 121, 187, 1)
         Font: =Font.'Lato Black'
         FontWeight: =FontWeight.Semibold
         Height: =190
-        Size: =53
+        Size: =60
         Text: ="Sign in"
         Width: =518
-        X: =48
-        Y: =57
+        X: =69
+        Y: =58
         ZIndex: =1
 
     TextInput1 As text:
@@ -22,16 +23,55 @@
         Size: =21
         Width: =560
         X: =27
-        Y: =281
+        Y: =317
         ZIndex: =2
 
     TextInput2 As text:
+        BorderColor: =RGBA(99, 139, 44, 1)
         Default: =""
         Height: =70
         HintText: ="Password"
         Size: =21
         Width: =560
         X: =27
-        Y: =416
+        Y: =456
         ZIndex: =3
+
+    Label4 As label:
+        Height: =70
+        Size: =21
+        Text: =""
+        Width: =560
+        X: =48
+        Y: =702
+        ZIndex: =4
+
+    Button1 As button:
+        Fill: =RGBA(99, 139, 44, 1)
+        Height: =70
+        Size: =24
+        Text: ="Sign in"
+        Width: =280
+        X: =188
+        Y: =614
+        ZIndex: =5
+
+    Label5 As label:
+        Height: =59
+        Size: =21
+        Text: ="Don't have an account yet? "
+        Width: =375
+        X: =69
+        Y: =889
+        ZIndex: =6
+
+    Label7 As label:
+        FontWeight: =FontWeight.Semibold
+        Height: =47
+        Size: =21
+        Text: ="Sign up"
+        Width: =128
+        X: =430
+        Y: =895
+        ZIndex: =7
 
