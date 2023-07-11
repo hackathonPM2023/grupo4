@@ -1,0 +1,11 @@
+Física As screen:
+
+    Label8 As label:
+        Height: =146
+        Size: =0
+        Text: ="Chemistry"
+        Width: =180
+        X: =40
+        Y: =40
+        ZIndex: =1
+
