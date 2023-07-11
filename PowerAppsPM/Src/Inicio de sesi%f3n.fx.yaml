@@ -14,19 +14,19 @@
         Size: =60
         Text: ="Sign in"
         Width: =251
-        X: =181
-        Y: =731
+        X: =201
+        Y: =759
         ZIndex: =1
 
     TextInput1 As text:
-        BorderColor: =RGBA(99, 139, 44, 1)
+        BorderColor: =RGBA(152, 208, 70, 1)
         Default: =""
         Height: =70
         HintText: ="Email"
         Size: =21
         Width: =560
         X: =45
-        Y: =471
+        Y: =505
         ZIndex: =2
 
     TextInput2 As text:
@@ -37,7 +37,7 @@
         Size: =21
         Width: =560
         X: =45
-        Y: =601
+        Y: =640
         ZIndex: =3
 
     Label4 As label:
@@ -48,27 +48,35 @@
         Text: ="Welcome Back"
         Width: =498
         X: =76
-        Y: =340
+        Y: =350
         ZIndex: =5
 
     Label5 As label:
         Height: =53
-        Size: =21
+        Size: =23
         Text: ="Not on Bridge Academy yet?"
-        Width: =387
+        Width: =427
         X: =45
-        Y: =912
+        Y: =1012
         ZIndex: =6
 
     Button2 As button:
-        Align: =Align.Left
         Color: =RGBA(0, 0, 0, 1)
-        Fill: =RGBA(255, 255, 255, 1)
-        Height: =33
+        Fill: =RGBA(0, 0, 0, 0)
+        FontWeight: =FontWeight.Bold
+        Height: =53
         Size: =24
         Text: ="Sing up"
         Width: =153
-        X: =421
-        Y: =932
+        X: =452
+        Y: =1012
         ZIndex: =7
+
+    Image3 As image:
+        Height: =320
+        Image: ='2308227'
+        Width: =320
+        X: =165
+        Y: =46
+        ZIndex: =8
 
