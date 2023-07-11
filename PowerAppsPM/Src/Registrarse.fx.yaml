@@ -1,33 +1,36 @@
 Registrarse As screen:
     Fill: =RGBA(227, 234, 243, 1)
 
-    Label8 As label:
-        Height: =70
-        Size: =21
-        Text: ="Name"
-        Width: =560
-        X: =40
-        Y: =513
-        ZIndex: =2
+    Label4_1 As label:
+        Align: =Align.Center
+        FontWeight: =FontWeight.Semibold
+        Height: =89
+        Size: =50
+        Text: ="Sign up"
+        Width: =498
+        X: =76
+        Y: =340
+        ZIndex: =5
 
-    Label9 As label:
+    TextInput1_1 As text:
+        BorderColor: =RGBA(99, 139, 44, 1)
+        Default: =""
         Height: =70
+        HintText: ="Email"
         Size: =21
-        Text: ="Password"
         Width: =560
-        X: =40
-        Y: =643
-        ZIndex: =3
+        X: =45
+        Y: =471
+        ZIndex: =6
 
-    Button3 As button:
-        BorderThickness: =4
-        Color: =RGBA(0, 0, 0, 1)
-        Fill: =RGBA(0, 0, 0, 0)
+    TextInput2_1 As text:
+        BorderColor: =RGBA(152, 208, 70, 1)
+        Default: =""
         Height: =70
-        Size: =24
-        Text: ="Sing In "
-        Width: =280
-        X: =180
-        Y: =800
-        ZIndex: =4
+        HintText: ="Password"
+        Size: =21
+        Width: =560
+        X: =65
+        Y: =621
+        ZIndex: =7
 
