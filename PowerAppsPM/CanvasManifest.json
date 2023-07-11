@@ -132,6 +132,7 @@
   },
   "ScreenOrder": [
     "Logo",
-    "Inicio de sesión"
+    "Inicio de sesión",
+    "Registrarse"
   ]
 }
