@@ -54,6 +54,7 @@ Física As screen:
 
     Dropdown1 As dropdown:
         Default: ="Scientific notation"
+        DisplayMode: =DisplayMode.View
         Height: =70
         Items: =DropDownSample
         Size: =21
@@ -61,4 +62,14 @@ Física As screen:
         X: =25
         Y: =284
         ZIndex: =5
+
+    ListBox2 As listbox:
+        Default: ="scientific notation "
+        Height: =225
+        Items: =ListboxSample
+        Size: =21
+        Width: =575
+        X: =25
+        Y: =354
+        ZIndex: =6
 
