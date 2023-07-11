@@ -3,19 +3,24 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
+    "Button2": 17,
     "Host": 3,
     "Image1": 5,
+    "Image2": 13,
     "Inicio de sesión": 8,
     "Label1": 6,
     "Label2": 7,
     "Label3": 9,
+    "Label4": 15,
+    "Label5": 16,
     "Logo": 4,
+    "Registrate": 12,
     "TextInput1": 10,
     "TextInput2": 11
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/11/2023 19:27:13",
+  "HeaderLastSavedDateTimeUTC": "07/11/2023 20:09:29",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -23,7 +28,7 @@
     "2308227": "2eb7c10e-7766-4098-bacf-6fea13d9d8f1.png"
   },
   "LocalResourceRootPaths": {
-    "2308227": "https://docserverpwaprodwus.blob.core.windows.net/099cdf5f-1479-4477-8b98-a60d7ca4bf05-1/resource/84b4c2ff-824f-4833-aa7b-2d9a3b3ee238.png?sv=2018-03-28&sr=b&sig=AdmaCm7VLbvxRyF2fDlQjtCHOf1GKy4%2Bkqn2j1vXgEQ%3D&spr=https&se=2023-07-12T19%3A28%3A53Z&sp=r"
+    "2308227": "https://docserverpwaprodeus.blob.core.windows.net/354822ff-5de7-4cde-a744-92985166a6f0-1/resource/Assets0Images02eb7c10e-7766-4098-bacf-6fea13d9d8f1.png?sv=2018-03-28&sr=b&sig=WfnxlHtiC4yh2gDsauHqrv6kgTzhc3bKypO6MGCJRbE%3D&spr=https&se=2023-07-12T20%3A00%3A05Z&sp=r"
   },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
@@ -32,19 +37,25 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
+    "button": 2,
     "image": 0,
     "label": 1,
-    "text": 2
+    "text": 3
   },
   "OverridablePropertiesEntry": {
     "App": {},
+    "Button2": {},
     "Host": {},
     "Image1": {},
+    "Image2": {},
     "Inicio de sesión": {},
     "Label1": {},
     "Label2": {},
     "Label3": {},
+    "Label4": {},
+    "Label5": {},
     "Logo": {},
+    "Registrate": {},
     "TextInput1": {},
     "TextInput2": {}
   },
@@ -52,13 +63,18 @@
   "PCFTemplateEntry": {},
   "PublishOrderIndices": {
     "App": 0,
+    "Button2": 0,
     "Host": 0,
     "Image1": 0,
+    "Image2": 0,
     "Inicio de sesión": 0,
     "Label1": 1,
     "Label2": 2,
     "Label3": 3,
+    "Label4": 0,
+    "Label5": 0,
     "Logo": 0,
+    "Registrate": 0,
     "TextInput1": 4,
     "TextInput2": 5
   },
@@ -69,8 +85,14 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0174803,
-    "ControlCount": {}
+    "AnalysisLoadTime": 0.0647254,
+    "ControlCount": {
+      "image": 1,
+      "label": 3,
+      "screen": 2,
+      "text": 2
+    },
+    "DeserializationLoadTime": 1.1813797
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
