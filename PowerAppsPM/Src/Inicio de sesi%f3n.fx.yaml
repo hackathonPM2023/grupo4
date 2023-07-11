@@ -40,14 +40,6 @@
         Y: =601
         ZIndex: =3
 
-    Image2 As image:
-        Height: =320
-        Image: ='2308227'
-        Width: =320
-        X: =147
-        Y: =66
-        ZIndex: =4
-
     Label4 As label:
         Align: =Align.Center
         FontWeight: =FontWeight.Semibold

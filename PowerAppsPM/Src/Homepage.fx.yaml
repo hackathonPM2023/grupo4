@@ -1,0 +1,43 @@
+Homepage As screen:
+    Fill: =RGBA(241, 244, 249, 1)
+
+    Rectangle1 As rectangle:
+        Fill: =RGBA(187, 221, 140, 1)
+        Height: =179
+        Width: =640
+        ZIndex: =1
+
+    Label6 As label:
+        Align: =Align.Center
+        Font: =Font.Lato
+        FontWeight: =FontWeight.Semibold
+        Height: =139
+        Size: =34
+        Text: ="What do you want to learn?"
+        Width: =640
+        Y: =20
+        ZIndex: =2
+
+    Rectangle2 As rectangle:
+        Height: =212
+        Width: =0
+        X: =35
+        Y: =249
+        ZIndex: =3
+
+    Rectangle3 As rectangle:
+        Fill: =RGBA(250, 155, 112, 1)
+        Height: =251
+        Width: =234
+        X: =35
+        Y: =268
+        ZIndex: =4
+
+    Image2 As image:
+        Height: =158
+        Image: ='2784386'
+        Width: =186
+        X: =59
+        Y: =343
+        ZIndex: =5
+

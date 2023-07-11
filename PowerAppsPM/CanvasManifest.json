@@ -133,7 +133,8 @@
   "ScreenOrder": [
     "Logo",
     "Inicio de sesión",
-    "Registrate",
-    "Registrarse"
+    "Registrarse",
+    "Homepage",
+    "Registrate"
   ]
 }
