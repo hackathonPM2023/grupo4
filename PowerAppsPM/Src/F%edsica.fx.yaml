@@ -14,20 +14,6 @@ Física As screen:
         Width: =205
         ZIndex: =1
 
-    Button4 As button:
-        BorderColor: =RGBA(255, 255, 255, 1)
-        Fill: =RGBA(255, 191, 0, 1)
-        Height: =99
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =24
-        Text: ="History"
-        Width: =215
-        X: =205
-        ZIndex: =2
-
     Button4_1 As button:
         BorderColor: =RGBA(255,255,255,1)
         Fill: =RGBA(54, 176, 75, 1)
