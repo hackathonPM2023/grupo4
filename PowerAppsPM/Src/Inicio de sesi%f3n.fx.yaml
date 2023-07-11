@@ -81,11 +81,3 @@
         Y: =1012
         ZIndex: =7
 
-    Image3 As image:
-        Height: =320
-        Image: ='2308227'
-        Width: =320
-        X: =165
-        Y: =46
-        ZIndex: =8
-
