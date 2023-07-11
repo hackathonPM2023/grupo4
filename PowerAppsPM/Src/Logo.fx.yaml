@@ -1,0 +1,34 @@
+Logo As screen:
+    Fill: =RGBA(175, 191, 224, 1)
+
+    Image1 As image:
+        Height: =320
+        Image: ='2308227'
+        Width: =320
+        X: =158
+        Y: =380
+        ZIndex: =1
+
+    Label1 As label:
+        Align: =Align.Center
+        Font: =Font.Verdana
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        Size: =30
+        Text: ="Bridge Academy"
+        Width: =560
+        X: =38
+        Y: =630
+        ZIndex: =2
+
+    Label2 As label:
+        Align: =Align.Center
+        Font: =Font.'Lato Light'
+        Height: =70
+        Size: =25
+        Text: ="The way to success"
+        Width: =560
+        X: =38
+        Y: =680
+        ZIndex: =3
+

@@ -1,0 +1,37 @@
+"'Inicio de sesión' As screen":
+    Fill: =RGBA(241, 244, 249, 1)
+
+    Label3 As label:
+        BorderColor: =RGBA(0, 0, 0, 1)
+        Color: =RGBA(0, 121, 187, 1)
+        Font: =Font.'Lato Black'
+        FontWeight: =FontWeight.Semibold
+        Height: =190
+        Size: =53
+        Text: ="Sign in"
+        Width: =518
+        X: =48
+        Y: =57
+        ZIndex: =1
+
+    TextInput1 As text:
+        BorderColor: =RGBA(99, 139, 44, 1)
+        Default: =""
+        Height: =70
+        HintText: ="Email"
+        Size: =21
+        Width: =560
+        X: =27
+        Y: =281
+        ZIndex: =2
+
+    TextInput2 As text:
+        Default: =""
+        Height: =70
+        HintText: ="Password"
+        Size: =21
+        Width: =560
+        X: =27
+        Y: =416
+        ZIndex: =3
+
