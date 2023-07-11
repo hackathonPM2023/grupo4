@@ -33,8 +33,8 @@ Vectors As screen:
         BorderThickness: =7
         Height: =349
         Width: =578
-        X: =32
-        Y: =376
+        X: =31
+        Y: =352
         ZIndex: =4
 
     Label9 As label:
@@ -42,7 +42,19 @@ Vectors As screen:
         Size: =25
         Text: ="Reinforces what you've learned.."
         Width: =529
-        X: =56
-        Y: =853
+        X: =31
+        Y: =842
         ZIndex: =5
+
+    Button4 As button:
+        BorderColor: =
+        Color: =RGBA(0, 0, 0, 1)
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =50
+        Size: =30
+        Text: ="> Click on the link"
+        Width: =376
+        X: =31
+        Y: =930
+        ZIndex: =6
 
