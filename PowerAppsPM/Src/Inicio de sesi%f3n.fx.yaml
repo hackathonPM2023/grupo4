@@ -59,16 +59,6 @@
         Y: =340
         ZIndex: =5
 
-    Button1 As button:
-        Fill: =RGBA(99, 139, 44, 1)
-        Height: =70
-        Size: =24
-        Text: ="Sign in"
-        Width: =280
-        X: =188
-        Y: =614
-        ZIndex: =5
-
     Label5 As label:
         Height: =53
         Size: =21
@@ -86,17 +76,7 @@
         Size: =24
         Text: ="Sing up"
         Width: =153
-        X: =432
-        Y: =922
-        ZIndex: =7
-
-    Label7 As label:
-        FontWeight: =FontWeight.Semibold
-        Height: =47
-        Size: =21
-        Text: ="Sign up"
-        Width: =128
-        X: =430
-        Y: =895
+        X: =421
+        Y: =932
         ZIndex: =7
 
