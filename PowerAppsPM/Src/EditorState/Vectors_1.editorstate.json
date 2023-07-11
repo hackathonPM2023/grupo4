@@ -1,6 +1,6 @@
 {
   "ControlStates": {
-    "Button1": {
+    "Button1_1": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -112,7 +112,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Button1",
+      "Name": "Button1_1",
       "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -300,7 +300,7 @@
       "StyleName": "defaultButtonStyle",
       "Type": "ControlInfo"
     },
-    "Icon1": {
+    "Icon1_1": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -365,7 +365,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Icon1",
+      "Name": "Icon1_1",
       "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -493,7 +493,7 @@
       "StyleName": "defaultIconStyle",
       "Type": "ControlInfo"
     },
-    "Label3": {
+    "Label3_1": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "Live",
@@ -587,7 +587,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Label3",
+      "Name": "Label3_1",
       "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -790,7 +790,7 @@
       "StyleName": "defaultLabelStyle",
       "Type": "ControlInfo"
     },
-    "Label9": {
+    "Label9_1": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "Live",
@@ -856,7 +856,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Label9",
+      "Name": "Label9_1",
       "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -1059,7 +1059,7 @@
       "StyleName": "defaultLabelStyle",
       "Type": "ControlInfo"
     },
-    "Rectangle1_1": {
+    "Rectangle1_2": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -1108,7 +1108,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Rectangle1_1",
+      "Name": "Rectangle1_2",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -1191,7 +1191,7 @@
       "StyleName": "defaultRectangleStyle",
       "Type": "ControlInfo"
     },
-    "Vectors": {
+    "Vectors_1": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "Fill",
@@ -1211,7 +1211,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Vectors",
+      "Name": "Vectors_1",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -1259,7 +1259,7 @@
       "StyleName": "defaultScreenStyle",
       "Type": "ControlInfo"
     },
-    "Video1": {
+    "Video1_1": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "Media",
@@ -1299,7 +1299,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Video1",
+      "Name": "Video1_1",
       "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -1373,5 +1373,5 @@
       "Type": "ControlInfo"
     }
   },
-  "TopParentName": "Vectors"
+  "TopParentName": "Vectors_1"
 }
