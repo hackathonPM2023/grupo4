@@ -38,8 +38,8 @@
         Size: =50
         Text: ="Welcome Back"
         Width: =498
-        X: =76
-        Y: =350
+        X: =75
+        Y: =377
         ZIndex: =5
 
     Label5 As label:

@@ -4,6 +4,7 @@ Logo As screen:
     Image1 As image:
         Height: =320
         Image: ='2308227'
+        OnSelect: =Navigate('Inicio de sesión',ScreenTransition.Fade)
         Width: =320
         X: =158
         Y: =380
@@ -14,6 +15,7 @@ Logo As screen:
         Font: =Font.Verdana
         FontWeight: =FontWeight.Semibold
         Height: =70
+        OnSelect: =Navigate('Inicio de sesión',ScreenTransition.Fade)
         Size: =30
         Text: ="Bridge Academy"
         Width: =560
@@ -25,6 +27,7 @@ Logo As screen:
         Align: =Align.Center
         Font: =Font.'Lato Light'
         Height: =70
+        OnSelect: =Navigate('Inicio de sesión',ScreenTransition.Fade)
         Size: =25
         Text: ="The way to success"
         Width: =560
