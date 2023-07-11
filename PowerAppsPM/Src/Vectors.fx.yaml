@@ -1,0 +1,17 @@
+Vectors As screen:
+
+    Rectangle1_1 As rectangle:
+        Fill: =RGBA(255, 0, 0, 1)
+        Height: =179
+        Width: =640
+        ZIndex: =1
+
+    Button1 As button:
+        Align: =Align.Left
+        Fill: =RGBA(0, 0, 0, 1)
+        Height: =179
+        Size: =100
+        Text: ="<"
+        Width: =173
+        ZIndex: =2
+
