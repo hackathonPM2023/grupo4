@@ -61,16 +61,39 @@ Física As screen:
         Text: ="Scientific Notation"
         Width: =560
         X: =32
-        Y: =364
+        Y: =397
         ZIndex: =8
 
     Label11 As label:
+        BorderColor: =RGBA(221, 79, 14, 1)
         BorderThickness: =3
         Height: =70
         Size: =21
         Text: ="search"
         Width: =560
         X: =32
-        Y: =227
+        Y: =267
         ZIndex: =9
+
+    Label11_1 As label:
+        BorderColor: =RGBA(221, 79, 14, 1)
+        BorderThickness: =3
+        Height: =70
+        Size: =21
+        Text: ="Grafics"
+        Width: =560
+        X: =32
+        Y: =467
+        ZIndex: =10
+
+    Label11_2 As label:
+        BorderColor: =RGBA(221, 79, 14, 1)
+        BorderThickness: =3
+        Height: =70
+        Size: =21
+        Text: ="Vectors"
+        Width: =560
+        X: =32
+        Y: =575
+        ZIndex: =11
 
