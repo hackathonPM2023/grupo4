@@ -3,16 +3,19 @@
 
     Label3 As label:
         Align: =Align.Center
-        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderColor: =RGBA(152, 208, 70, 1)
+        BorderThickness: =5
         Color: =RGBA(0, 121, 187, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        FocusedBorderThickness: =10
         Font: =Font.'Lato Black'
         FontWeight: =FontWeight.Semibold
-        Height: =190
+        Height: =110
         Size: =60
         Text: ="Sign in"
-        Width: =518
-        X: =69
-        Y: =58
+        Width: =251
+        X: =181
+        Y: =731
         ZIndex: =1
 
     TextInput1 As text:
@@ -22,29 +25,31 @@
         HintText: ="Email"
         Size: =21
         Width: =560
-        X: =27
-        Y: =317
+        X: =45
+        Y: =471
         ZIndex: =2
 
     TextInput2 As text:
-        BorderColor: =RGBA(99, 139, 44, 1)
+        BorderColor: =RGBA(152, 208, 70, 1)
         Default: =""
         Height: =70
         HintText: ="Password"
         Size: =21
         Width: =560
-        X: =27
-        Y: =456
+        X: =45
+        Y: =601
         ZIndex: =3
 
     Label4 As label:
-        Height: =70
-        Size: =21
-        Text: =""
-        Width: =560
-        X: =48
-        Y: =702
-        ZIndex: =4
+        Align: =Align.Center
+        FontWeight: =FontWeight.Semibold
+        Height: =79
+        Size: =50
+        Text: ="Welcome Back"
+        Width: =498
+        X: =76
+        Y: =340
+        ZIndex: =5
 
     Button1 As button:
         Fill: =RGBA(99, 139, 44, 1)
@@ -57,12 +62,12 @@
         ZIndex: =5
 
     Label5 As label:
-        Height: =59
+        Height: =53
         Size: =21
-        Text: ="Don't have an account yet? "
-        Width: =375
-        X: =69
-        Y: =889
+        Text: ="Not on Bridge Academy yet?"
+        Width: =387
+        X: =45
+        Y: =912
         ZIndex: =6
 
     Label7 As label:
@@ -73,5 +78,17 @@
         Width: =128
         X: =430
         Y: =895
+        ZIndex: =7
+
+    Button2 As button:
+        Align: =Align.Left
+        Color: =RGBA(0, 0, 0, 1)
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =33
+        Size: =24
+        Text: ="Sing up"
+        Width: =153
+        X: =432
+        Y: =922
         ZIndex: =7
 
