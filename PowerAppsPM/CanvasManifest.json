@@ -128,12 +128,13 @@
     "PublishDataLocally": false,
     "PublishResourcesLocally": false,
     "PublishTarget": "player",
-    "UserLocale": "en-US"
+    "UserLocale": "es-ES"
   },
   "ScreenOrder": [
     "Logo",
     "Inicio de sesión",
     "Registrarse",
-    "Homepage"
+    "Homepage",
+    "Física"
   ]
 }

@@ -63,11 +63,3 @@ Registrarse As screen:
         Y: =915
         ZIndex: =9
 
-    Image3_1 As image:
-        Height: =320
-        Image: ='2308227'
-        Width: =320
-        X: =165
-        Y: =46
-        ZIndex: =10
-
