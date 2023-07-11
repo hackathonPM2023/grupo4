@@ -2,12 +2,12 @@ Logo As screen:
     Fill: =RGBA(241, 244, 249, 1)
 
     Image1 As image:
-        Height: =320
+        Height: =340
         Image: ='2308227'
         OnSelect: =Navigate('Inicio de sesión',ScreenTransition.Fade)
-        Width: =320
+        Width: =330
         X: =158
-        Y: =380
+        Y: =360
         ZIndex: =1
 
     Label1 As label:

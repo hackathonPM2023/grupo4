@@ -126,7 +126,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Image3",
-      "ParentIndex": 6,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -333,7 +333,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Image3_1",
-      "ParentIndex": 7,
+      "ParentIndex": 8,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -535,7 +535,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Image3_2",
-      "ParentIndex": 12,
+      "ParentIndex": 9,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -737,7 +737,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Image3_3",
-      "ParentIndex": 13,
+      "ParentIndex": 10,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -977,7 +977,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Label6",
-      "ParentIndex": 1,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1260,7 +1260,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Label7",
-      "ParentIndex": 2,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1833,7 +1833,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Label7_2",
-      "ParentIndex": 8,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2123,7 +2123,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Label7_3",
-      "ParentIndex": 9,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2480,7 +2480,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle3",
-      "ParentIndex": 4,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2610,7 +2610,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle3_1",
-      "ParentIndex": 5,
+      "ParentIndex": 11,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2735,7 +2735,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle3_2",
-      "ParentIndex": 10,
+      "ParentIndex": 12,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2860,7 +2860,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "Rectangle3_3",
-      "ParentIndex": 11,
+      "ParentIndex": 13,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
