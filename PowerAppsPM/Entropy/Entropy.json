@@ -15,7 +15,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/11/2023 19:27:13",
+  "HeaderLastSavedDateTimeUTC": "07/11/2023 19:49:16",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -23,7 +23,7 @@
     "2308227": "2eb7c10e-7766-4098-bacf-6fea13d9d8f1.png"
   },
   "LocalResourceRootPaths": {
-    "2308227": "https://docserverpwaprodwus.blob.core.windows.net/099cdf5f-1479-4477-8b98-a60d7ca4bf05-1/resource/84b4c2ff-824f-4833-aa7b-2d9a3b3ee238.png?sv=2018-03-28&sr=b&sig=AdmaCm7VLbvxRyF2fDlQjtCHOf1GKy4%2Bkqn2j1vXgEQ%3D&spr=https&se=2023-07-12T19%3A28%3A53Z&sp=r"
+    "2308227": "https://docserverpwaprodeus.blob.core.windows.net/6ca17771-e51b-4cad-b16f-ed2e7aafa6b5-1/resource/Assets0Images02eb7c10e-7766-4098-bacf-6fea13d9d8f1.png?sv=2018-03-28&sr=b&sig=J2b33kT1thL4LtpYlDtvRtqQOn7bpmm5Tql5qNWhEas%3D&spr=https&se=2023-07-12T20%3A01%3A44Z&sp=r"
   },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
@@ -69,8 +69,14 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0174803,
-    "ControlCount": {}
+    "AnalysisLoadTime": 0.0666356,
+    "ControlCount": {
+      "image": 1,
+      "label": 3,
+      "screen": 2,
+      "text": 2
+    },
+    "DeserializationLoadTime": 1.3604679
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
