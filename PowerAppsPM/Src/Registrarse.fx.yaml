@@ -1,6 +1,14 @@
 Registrarse As screen:
     Fill: =RGBA(255, 255, 255, 1)
 
+    Image2_1 As image:
+        Height: =453
+        Image: ='2308227'
+        Width: =433
+        X: =108
+        Y: =3
+        ZIndex: =1
+
     Label4_1 As label:
         Align: =Align.Center
         FontWeight: =FontWeight.Semibold
@@ -10,7 +18,7 @@ Registrarse As screen:
         Width: =338
         X: =155
         Y: =350
-        ZIndex: =5
+        ZIndex: =2
 
     TextInput1_1 As text:
         BorderColor: =RGBA(152, 208, 70, 1)
@@ -25,7 +33,7 @@ Registrarse As screen:
         Width: =560
         X: =45
         Y: =471
-        ZIndex: =6
+        ZIndex: =3
 
     TextInput2_1 As text:
         BorderColor: =RGBA(152, 208, 70, 1)
@@ -40,7 +48,7 @@ Registrarse As screen:
         Width: =560
         X: =45
         Y: =760
-        ZIndex: =7
+        ZIndex: =4
 
     TextInput2_2 As text:
         BorderColor: =RGBA(152, 208, 70, 1)
@@ -55,15 +63,7 @@ Registrarse As screen:
         Width: =560
         X: =45
         Y: =615
-        ZIndex: =8
-
-    Image2_1 As image:
-        Height: =453
-        Image: ='2308227'
-        Width: =433
-        X: =108
-        Y: =3
-        ZIndex: =10
+        ZIndex: =5
 
     Button1_1 As button:
         BorderColor: =Navigate(Homepage,ScreenTransition.Fade)
@@ -76,5 +76,5 @@ Registrarse As screen:
         Width: =359
         X: =144
         Y: =924
-        ZIndex: =11
+        ZIndex: =6
 
