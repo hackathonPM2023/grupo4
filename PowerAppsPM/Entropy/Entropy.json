@@ -13,6 +13,7 @@
     "Física": 4,
     "Homepage": 9,
     "Host": 3,
+    "Icon1": 49,
     "Image1": 32,
     "Image2": 25,
     "Image2_1": 36,
@@ -52,7 +53,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/11/2023 21:20:44",
+  "HeaderLastSavedDateTimeUTC": "07/11/2023 21:30:43",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -83,11 +84,12 @@
   "OrderXMLTemplate": {
     "button": 0,
     "dropdown": 2,
+    "icon": 6,
     "image": 4,
     "label": 1,
     "rectangle": 3,
     "text": 5,
-    "videoPlayback": 6
+    "videoPlayback": 7
   },
   "OverridablePropertiesEntry": {
     "App": {},
@@ -101,6 +103,7 @@
     "Física": {},
     "Homepage": {},
     "Host": {},
+    "Icon1": {},
     "Image1": {},
     "Image2": {},
     "Image2_1": {},
@@ -152,6 +155,7 @@
     "Física": 3,
     "Homepage": 8,
     "Host": 0,
+    "Icon1": 0,
     "Image1": 31,
     "Image2": 24,
     "Image2_1": 35,
