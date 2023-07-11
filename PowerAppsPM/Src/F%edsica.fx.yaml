@@ -1,4 +1,5 @@
 Física As screen:
+    BackgroundImage: =
     Fill: =RGBA(0
 
     Button3 As button:
@@ -38,24 +39,38 @@ Física As screen:
         Y: =117
         ZIndex: =4
 
-    Dropdown1 As dropdown:
-        Default: ="Scientific notation"
-        DisplayMode: =DisplayMode.View
-        Height: =70
-        Items: =DropDownSample
-        Size: =21
-        Width: =575
-        X: =25
-        Y: =284
-        ZIndex: =5
+    Button3_2 As button:
+        BorderColor: =RGBA(255, 255, 255, 1)
+        Fill: =RGBA(255, 191, 0, 1)
+        Height: =99
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =24
+        Text: ="History"
+        Width: =215
+        X: =205
+        ZIndex: =7
 
-    ListBox2 As listbox:
-        Default: ="scientific notation "
-        Height: =225
-        Items: =ListboxSample
+    Label10 As label:
+        BorderColor: =RGBA(221, 79, 14, 1)
+        BorderThickness: =3
+        Height: =70
         Size: =21
-        Width: =575
-        X: =25
-        Y: =354
-        ZIndex: =6
+        Text: ="Scientific Notation"
+        Width: =560
+        X: =32
+        Y: =364
+        ZIndex: =8
+
+    Label11 As label:
+        BorderThickness: =3
+        Height: =70
+        Size: =21
+        Text: ="search"
+        Width: =560
+        X: =32
+        Y: =227
+        ZIndex: =9
 
