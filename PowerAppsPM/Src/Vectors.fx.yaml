@@ -8,7 +8,62 @@ Vectors As screen:
         Size: =30
         Text: ="> Click on the link"
         Width: =376
-        X: =56
-        Y: =930
+        X: =32
+        Y: =953
         ZIndex: =7
+
+    Rectangle1_1 As rectangle:
+        Fill: =RGBA(250, 155, 112, 1)
+        Height: =179
+        Width: =640
+        ZIndex: =8
+
+    Button1 As button:
+        BorderThickness: =0
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =179
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =0
+        Text: =""
+        Width: =136
+        ZIndex: =9
+
+    Icon1 As icon.ChevronLeft:
+        Fill: =RGBA(255, 255, 255, 1)
+        Height: =179
+        Icon: =Icon.ChevronLeft
+        OnSelect: =Navigate(Física,ScreenTransition.Fade)
+        Width: =136
+        ZIndex: =10
+
+    Video1 As videoPlayback:
+        Height: =323
+        Width: =575
+        X: =32
+        Y: =393
+        ZIndex: =11
+
+    Label8 As label:
+        Align: =Align.Center
+        FontWeight: =FontWeight.Semibold
+        Height: =179
+        Size: =50
+        Text: ="Introduction to vectors"
+        Width: =504
+        X: =136
+        ZIndex: =13
+
+    Label9 As label:
+        FontWeight: =FontWeight.Bold
+        Height: =110
+        Size: =30
+        Text: |-
+            ="Reinforces what you've learned:"
+        Width: =488
+        X: =32
+        Y: =824
+        ZIndex: =14
 
