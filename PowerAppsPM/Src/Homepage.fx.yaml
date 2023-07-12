@@ -21,7 +21,7 @@ Homepage As screen:
     Rectangle3 As rectangle:
         Fill: =RGBA(250, 155, 112, 1)
         Height: =263
-        OnSelect: =Navigate(Física,ScreenTransition.Fade)
+        OnSelect: =Navigate(Ph,ScreenTransition.Fade)
         Width: =267
         X: =18
         Y: =308
@@ -30,7 +30,7 @@ Homepage As screen:
     Image3 As image:
         Height: =211
         Image: ='170849'
-        OnSelect: =Navigate(Física,ScreenTransition.Fade)
+        OnSelect: =Navigate(Ph,ScreenTransition.Fade)
         Width: =196
         X: =53
         Y: =334

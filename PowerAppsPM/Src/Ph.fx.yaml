@@ -1,6 +1,6 @@
-Física As screen:
+Ph As screen:
     BackgroundImage: =
-    Fill: =RGBA(0
+    Fill: =RGBA(241, 244, 249, 1)
 
     Button3 As button:
         BorderColor: =RGBA(255, 255, 255, 1)
@@ -35,8 +35,8 @@ Física As screen:
         Size: =70
         Text: ="Physics"
         Width: =474
-        X: =15
-        Y: =117
+        X: =75
+        Y: =120
         ZIndex: =4
 
     Button3_2 As button:
@@ -53,47 +53,66 @@ Física As screen:
         X: =205
         ZIndex: =7
 
-    Label10 As label:
-        BorderColor: =RGBA(221, 79, 14, 1)
-        BorderThickness: =3
-        Height: =70
-        Size: =21
-        Text: ="Scientific Notation"
-        Width: =560
-        X: =32
-        Y: =397
-        ZIndex: =8
-
     Label11 As label:
         BorderColor: =RGBA(221, 79, 14, 1)
         BorderThickness: =3
-        Height: =70
+        Height: =67
         Size: =21
-        Text: ="search"
-        Width: =560
-        X: =32
-        Y: =267
+        Text: ="Search"
+        Width: =523
+        X: =86
+        Y: =306
         ZIndex: =9
 
-    Label11_1 As label:
-        BorderColor: =RGBA(221, 79, 14, 1)
-        BorderThickness: =3
-        Height: =70
-        Size: =21
-        Text: ="Grafics"
-        Width: =560
-        X: =32
-        Y: =467
+    Button4 As button:
+        BorderColor: =RGBA(255, 81, 0, 1)
+        Color: =RGBA(94, 58, 58, 1)
+        Fill: =RGBA(250, 155, 112, 0.57)
+        Height: =73
+        Size: =24
+        Text: ="Scientific Notation"
+        Width: =452
+        X: =86
+        Y: =480
         ZIndex: =10
 
-    Label11_2 As label:
-        BorderColor: =RGBA(221, 79, 14, 1)
-        BorderThickness: =3
+    Button5 As button:
+        BorderColor: =RGBA(255, 81, 0, 1)
+        Color: =RGBA(94, 58, 58, 1)
+        Fill: =RGBA(250, 155, 112, 0.57)
         Height: =70
-        Size: =21
-        Text: ="Vectors"
-        Width: =560
-        X: =32
-        Y: =575
+        Size: =24
+        Text: ="Graphics"
+        Width: =452
+        X: =86
+        Y: =577
         ZIndex: =11
+
+    Button6 As button:
+        BorderColor: =RGBA(255, 81, 0, 1)
+        Color: =RGBA(94, 58, 58, 1)
+        Fill: =RGBA(250, 155, 112, 0.58)
+        Height: =62
+        OnSelect: =Navigate('Select lesson',ScreenTransition.Fade)
+        Size: =24
+        Text: ="Vectors"
+        Width: =452
+        X: =86
+        Y: =667
+        ZIndex: =12
+
+    Icon1_2 As icon.ChevronLeft:
+        Color: =RGBA(250, 155, 112, 1)
+        Height: =166
+        Icon: =Icon.ChevronLeft
+        OnSelect: =Navigate('Select lesson',ScreenTransition.Fade)
+        Width: =68
+        Y: =99
+        ZIndex: =13
+
+    Icon2 As icon.Search:
+        Icon: =Icon.Search
+        X: =22
+        Y: =306
+        ZIndex: =14
 
