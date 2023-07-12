@@ -11,7 +11,7 @@ Vectors As screen:
         Color: =RGBA(0, 0, 0, 1)
         Height: =103
         Icon: =Icon.ChevronLeft
-        OnSelect: =Navigate(Física,ScreenTransition.Fade)
+        OnSelect: =Navigate('Select lesson',ScreenTransition.Fade)
         Width: =74
         Y: =13
         ZIndex: =10
@@ -24,6 +24,7 @@ Vectors As screen:
         ZIndex: =11
 
     Label8 As label:
+        BorderColor: =RGBA(0, 0, 0, 1)
         FontWeight: =FontWeight.Semibold
         Height: =128
         Size: =35
