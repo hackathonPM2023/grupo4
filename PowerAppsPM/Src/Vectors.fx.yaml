@@ -8,7 +8,7 @@ Vectors As screen:
         ZIndex: =8
 
     Icon1 As icon.ChevronLeft:
-        Color: =RGBA(0, 0, 0, 1)
+        Color: =RGBA(94, 58, 58, 1)
         Height: =103
         Icon: =Icon.ChevronLeft
         OnSelect: =Navigate('Select lesson',ScreenTransition.Fade)
@@ -25,15 +25,17 @@ Vectors As screen:
 
     Label8 As label:
         BorderColor: =RGBA(0, 0, 0, 1)
+        Color: =RGBA(94, 58, 58, 1)
         FontWeight: =FontWeight.Semibold
-        Height: =128
-        Size: =35
+        Height: =130
+        Size: =36
         Text: ="Introduction to vectors"
-        Width: =549
-        X: =91
+        Width: =555
+        X: =84
         ZIndex: =13
 
     Label9 As label:
+        Color: =RGBA(94, 58, 58, 1)
         FontWeight: =FontWeight.Bold
         Height: =110
         Size: =30

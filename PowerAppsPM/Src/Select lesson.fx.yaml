@@ -4,18 +4,19 @@
     Label8_1 As label:
         Align: =Align.Center
         BorderColor: =RGBA(0, 0, 0, 1)
+        Color: =RGBA(94, 58, 58, 1)
         Fill: =RGBA(250, 155, 112, 1)
         FontWeight: =FontWeight.Semibold
         Height: =179
         Size: =70
-        Text: ="Physics"
-        Width: =504
-        X: =136
+        Text: ="Vectors"
+        Width: =616
+        X: =23
         ZIndex: =1
 
     Icon1_1 As icon.ChevronLeft:
-        Color: =RGBA(250, 155, 112, 1)
-        Fill: =RGBA(241, 244, 249, 1)
+        Color: =RGBA(94, 58, 58, 1)
+        Fill: =RGBA(250, 155, 112, 1)
         Height: =179
         Icon: =Icon.ChevronLeft
         OnSelect: =Navigate(Fisica,ScreenTransition.Fade)
@@ -23,11 +24,12 @@
         ZIndex: =2
 
     Label12 As label:
-        Height: =100
-        Size: =35
+        Color: =RGBA(94, 58, 58, 1)
+        Height: =143
+        Size: =40
         Text: |-
             ="Videos:"
-        Width: =333
+        Width: =369
         X: =42
         Y: =209
         ZIndex: =4
@@ -39,11 +41,11 @@
         FontWeight: =FontWeight.Bold
         Height: =105
         OnSelect: =Navigate(Vectors,ScreenTransition.Fade)
-        Size: =30
+        Size: =28
         Text: ="Introduction to Vectors"
-        Width: =560
-        X: =42
-        Y: =340
+        Width: =520
+        X: =62
+        Y: =386
         ZIndex: =5
 
     Button4_2 As button:
@@ -52,11 +54,11 @@
         Fill: =RGBA(250, 155, 112, 1)
         FontWeight: =FontWeight.Bold
         Height: =128
-        Size: =30
-        Text: ="Graphical representation of a vector - Part 1"
-        Width: =560
-        X: =42
-        Y: =484
+        Size: =28
+        Text: ="Graphical representation of a vector"
+        Width: =520
+        X: =62
+        Y: =568
         ZIndex: =6
 
     Button4_3 As button:
@@ -65,13 +67,13 @@
         Fill: =RGBA(250, 155, 112, 1)
         FontWeight: =FontWeight.Bold
         Height: =128
-        Size: =30
+        Size: =28
         Text: |-
             ="Addition and   
             subtraction of vectors"
-        Width: =560
-        X: =42
-        Y: =817
+        Width: =520
+        X: =62
+        Y: =776
         ZIndex: =7
 
     Button4_4 As button:
@@ -79,25 +81,12 @@
         Color: =RGBA(94, 58, 58, 1)
         Fill: =RGBA(250, 155, 112, 1)
         FontWeight: =FontWeight.Bold
-        Height: =105
+        Height: =101
         OnSelect: =Navigate(Vectors,ScreenTransition.Fade)
-        Size: =30
+        Size: =28
         Text: ="Vector multiplication"
-        Width: =560
-        X: =42
+        Width: =520
+        X: =62
         Y: =984
         ZIndex: =8
-
-    Button4_5 As button:
-        BorderColor: =RGBA(255, 81, 0, 1)
-        Color: =RGBA(94, 58, 58, 1)
-        Fill: =RGBA(250, 155, 112, 1)
-        FontWeight: =FontWeight.Bold
-        Height: =128
-        Size: =30
-        Text: ="Graphical representation of a vector - Part 2"
-        Width: =560
-        X: =42
-        Y: =651
-        ZIndex: =9
 
