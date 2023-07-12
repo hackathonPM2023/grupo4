@@ -1,6 +1,7 @@
 Física As screen:
     BackgroundImage: =
-    Fill: =RGBA(0
+    Fill: |
+        =
 
     Button3 As button:
         BorderColor: =RGBA(255, 255, 255, 1)

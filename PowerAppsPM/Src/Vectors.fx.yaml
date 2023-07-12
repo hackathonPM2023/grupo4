@@ -1,62 +1,35 @@
 Vectors As screen:
-
-    Button4_2 As button:
-        BorderColor: =
-        Color: =RGBA(0, 0, 0, 1)
-        Fill: =RGBA(0, 0, 0, 0)
-        Height: =45
-        Size: =30
-        Text: ="> Click on the link"
-        Width: =351
-        X: =32
-        Y: =953
-        ZIndex: =7
+    Fill: =
 
     Rectangle1_1 As rectangle:
         Fill: =RGBA(250, 155, 112, 1)
-        Height: =179
+        Height: =130
         Width: =640
         ZIndex: =8
 
-    Button1 As button:
-        BorderThickness: =0
-        Fill: =RGBA(255, 255, 255, 1)
-        Height: =179
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =0
-        Text: =""
-        Width: =136
-        ZIndex: =9
-
     Icon1 As icon.ChevronLeft:
         Color: =RGBA(0, 0, 0, 1)
-        Fill: =RGBA(255, 255, 255, 1)
-        Height: =149
+        Height: =103
         Icon: =Icon.ChevronLeft
         OnSelect: =Navigate(Física,ScreenTransition.Fade)
-        Width: =119
-        X: =8
-        Y: =15
+        Width: =74
+        Y: =13
         ZIndex: =10
 
     Video1 As videoPlayback:
         Height: =323
         Width: =575
         X: =32
-        Y: =393
+        Y: =241
         ZIndex: =11
 
     Label8 As label:
-        Align: =Align.Center
         FontWeight: =FontWeight.Semibold
-        Height: =179
-        Size: =50
+        Height: =128
+        Size: =35
         Text: ="Introduction to vectors"
-        Width: =504
-        X: =136
+        Width: =549
+        X: =91
         ZIndex: =13
 
     Label9 As label:
@@ -67,6 +40,34 @@ Vectors As screen:
             ="Reinforces what you've learned:"
         Width: =488
         X: =32
-        Y: =824
+        Y: =688
         ZIndex: =14
+
+    Icon3 As icon.Link:
+        Color: =RGBA(0, 16, 96, 1)
+        Height: =55
+        Icon: =Icon.Link
+        Width: =46
+        X: =62
+        Y: =850
+        ZIndex: =15
+
+    HtmlText1 As htmlViewer:
+        Height: =70
+        HtmlText: |-
+            ="<a href='https://www.youtube.com/watch?v=IrTeyyzerjI&pp=ygUYaW50cm9kdWNjacOzbiBhIHZlY3RvcmVz>Click here</a>"
+        Size: =27
+        Width: =207
+        X: =126
+        Y: =843
+        ZIndex: =16
+
+    HtmlText2 As htmlViewer:
+        Height: =55
+        HtmlText: |-
+            ="<a href='https://www.youtube.com/watch?v=IrTeyyzerjI&pp=ygUYaW50cm9kdWNjacOzbiBhIHZlY3RvcmVz'>Click here</a>"
+        Width: =175
+        X: =126
+        Y: =850
+        ZIndex: =17
 
