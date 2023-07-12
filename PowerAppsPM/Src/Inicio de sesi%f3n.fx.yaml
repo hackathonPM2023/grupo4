@@ -6,6 +6,7 @@
         Default: =""
         Height: =70
         HintText: ="Email"
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
         RadiusBottomLeft: =50
         RadiusBottomRight: =50
         RadiusTopLeft: =50
@@ -21,6 +22,7 @@
         Default: =""
         Height: =70
         HintText: ="Password"
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
         RadiusBottomLeft: =100
         RadiusBottomRight: =100
         RadiusTopLeft: =100
