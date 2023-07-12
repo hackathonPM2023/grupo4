@@ -19,6 +19,7 @@ Homepage As screen:
         ZIndex: =2
 
     Rectangle3 As rectangle:
+        BorderStyle: =BorderStyle.Dotted
         Fill: =RGBA(250, 155, 112, 1)
         Height: =263
         OnSelect: =Navigate(Fisica,ScreenTransition.Fade)
