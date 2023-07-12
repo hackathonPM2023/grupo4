@@ -21,15 +21,6 @@
         Width: =136
         ZIndex: =2
 
-    Label10 As label:
-        Height: =70
-        Size: =50
-        Text: ="Vectors"
-        Width: =560
-        X: =42
-        Y: =236
-        ZIndex: =3
-
     Label12 As label:
         Height: =70
         Size: =30
