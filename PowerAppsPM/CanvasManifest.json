@@ -110,11 +110,11 @@
     "DocumentType": "App",
     "EnableInstrumentation": false,
     "FileID": "dbc1eec4-13c4-442b-b06a-0357457cfc8b",
-    "Id": "583d20ab-68d2-40aa-9ab2-06ca0c655f10",
+    "Id": "91a588e8-8942-42a4-b0be-5a5f9c9802b8",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
     "ManualOfflineProfileId": "",
-    "Name": "Bridge Academy",
+    "Name": "Bridge+Academy.msapp",
     "OriginatingVersion": "1.333",
     "ParserErrorCount": 0,
     "ShowStatusBar": false
@@ -136,7 +136,7 @@
     "Registrarse",
     "Homepage",
     "Ph",
-    "Vectors",
-    "Select lesson"
+    "Select lesson",
+    "Vectors"
   ]
 }

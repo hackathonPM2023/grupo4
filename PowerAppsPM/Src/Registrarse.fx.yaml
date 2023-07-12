@@ -1,5 +1,5 @@
 Registrarse As screen:
-    Fill: =RGBA(255, 255, 255, 1)
+    Fill: =RGBA(241, 244, 249, 1)
 
     Image2_1 As image:
         Height: =453
