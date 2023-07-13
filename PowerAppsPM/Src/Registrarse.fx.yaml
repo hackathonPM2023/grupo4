@@ -40,6 +40,7 @@ Registrarse As screen:
         Default: =""
         Height: =70
         HintText: ="Password"
+        Mode: =TextMode.Password
         RadiusBottomLeft: =50
         RadiusBottomRight: =50
         RadiusTopLeft: =50
@@ -77,7 +78,16 @@ Registrarse As screen:
         Size: =50
         Text: ="Log in"
         Width: =280
-        X: =185
-        Y: =930
+        X: =184
+        Y: =972
         ZIndex: =6
+
+    Checkbox1 As checkbox:
+        Height: =85
+        Size: =21
+        Text: ="Show password"
+        Width: =280
+        X: =45
+        Y: =870
+        ZIndex: =7
 

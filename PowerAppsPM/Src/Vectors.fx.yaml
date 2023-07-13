@@ -1,5 +1,5 @@
 Vectors As screen:
-    Fill: =
+    Fill: =RGBA(241, 244, 249, 1)
 
     Rectangle1_1 As rectangle:
         Fill: =RGBA(250, 155, 112, 1)
@@ -18,9 +18,10 @@ Vectors As screen:
 
     Video1 As videoPlayback:
         Height: =323
+        Media: ='What is a vector_ - David Huynh'
         Width: =575
         X: =32
-        Y: =240
+        Y: =382
         ZIndex: =11
 
     Label8 As label:
@@ -43,16 +44,17 @@ Vectors As screen:
             ="Reinforce what you've learned:"
         Width: =488
         X: =32
-        Y: =688
+        Y: =755
         ZIndex: =14
 
     Icon3 As icon.Link:
         Color: =RGBA(0, 16, 96, 1)
+        Fill: =RGBA(250, 155, 112, 1)
         Height: =55
         Icon: =Icon.Link
         Width: =46
         X: =62
-        Y: =850
+        Y: =905
         ZIndex: =15
 
     HtmlText1 As htmlViewer:
@@ -66,11 +68,32 @@ Vectors As screen:
         ZIndex: =16
 
     HtmlText2 As htmlViewer:
+        Fill: =RGBA(250, 155, 112, 1)
         Height: =55
         HtmlText: |-
-            ="<a href='https://quizizz.com/join/quiz/64af03c3058fc7001d5919da/start'>Click here</a>"
+            ="<a href='https://quizizz.com/join/pre-game/running/U2FsdGVkX1%252BY28jpQjidw7PVms0oajFNrijtzr2PVCZb%252F7lugQyWF4I%252B2z9Z94u%252Buloso0YREyOYEe8VNSyyTOhomXsco8GyaaaEEvG2JVY%253D/start'>Click here</a>"
         Width: =175
-        X: =126
-        Y: =850
+        X: =108
+        Y: =905
         ZIndex: =17
+
+    Label11 As label:
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        Size: =30
+        Text: |-
+            ="Lesson #1"
+        Width: =560
+        X: =39
+        Y: =262
+        ZIndex: =18
+
+    Label13 As label:
+        Height: =70
+        Size: =25
+        Text: ="Informative video"
+        Width: =560
+        X: =32
+        Y: =312
+        ZIndex: =19
 

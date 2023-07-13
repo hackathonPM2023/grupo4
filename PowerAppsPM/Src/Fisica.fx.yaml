@@ -82,8 +82,8 @@ Fisica As screen:
         Size: =24
         Text: ="Scientific Notation"
         Width: =364
-        X: =137
-        Y: =522
+        X: =138
+        Y: =509
         ZIndex: =23
 
     Button3 As button:
@@ -92,8 +92,8 @@ Fisica As screen:
         Size: =24
         Text: ="Graphics"
         Width: =363
-        X: =137
-        Y: =660
+        X: =136
+        Y: =632
         ZIndex: =24
 
     Button1_4 As button:
@@ -112,8 +112,19 @@ Fisica As screen:
         Fill: =RGBA(241, 244, 249, 1)
         Height: =88
         Icon: =Icon.ChevronLeft
-        OnSelect: =Navigate(Fisica,ScreenTransition.Fade)
+        OnSelect: =Navigate(Homepage,ScreenTransition.Fade)
         Width: =92
         Y: =158
         ZIndex: =28
+
+    Button3_2 As button:
+        Fill: =RGBA(250, 155, 112, 1)
+        Height: =73
+        OnSelect: =Navigate('Select lesson',ScreenTransition.Fade)
+        Size: =24
+        Text: ="Vectors"
+        Width: =363
+        X: =138
+        Y: =752
+        ZIndex: =29
 

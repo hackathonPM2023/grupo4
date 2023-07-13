@@ -23,6 +23,7 @@
         Height: =70
         HintText: ="Password"
         HoverBorderColor: =RGBA(0, 0, 0, 0)
+        Mode: =TextMode.Password
         RadiusBottomLeft: =100
         RadiusBottomRight: =100
         RadiusTopLeft: =100
