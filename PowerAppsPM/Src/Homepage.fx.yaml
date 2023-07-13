@@ -9,7 +9,6 @@ Homepage As screen:
 
     Label6 As label:
         Align: =Align.Center
-        Font: =Font.Lato
         FontWeight: =FontWeight.Semibold
         Height: =139
         Size: =34
@@ -87,7 +86,6 @@ Homepage As screen:
 
     Label7 As label:
         Align: =Align.Center
-        Font: =Font.Verdana
         FontWeight: =FontWeight.Semibold
         Height: =80
         Size: =35
@@ -99,7 +97,6 @@ Homepage As screen:
 
     Label7_1 As label:
         Align: =Align.Center
-        Font: =Font.Verdana
         FontWeight: =FontWeight.Semibold
         Height: =80
         Size: =35
@@ -111,7 +108,6 @@ Homepage As screen:
 
     Label7_2 As label:
         Align: =Align.Center
-        Font: =Font.Verdana
         FontWeight: =FontWeight.Semibold
         Height: =80
         Size: =35
@@ -123,7 +119,6 @@ Homepage As screen:
 
     Label7_3 As label:
         Align: =Align.Center
-        Font: =Font.Verdana
         FontWeight: =FontWeight.Semibold
         Height: =80
         Size: =35

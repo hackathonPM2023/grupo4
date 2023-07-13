@@ -10,17 +10,19 @@
         Height: =179
         Size: =70
         Text: ="Vectors"
-        Width: =616
-        X: =23
+        Width: =639
+        X: =1
         ZIndex: =1
 
     Icon1_1 As icon.ChevronLeft:
         Color: =RGBA(94, 58, 58, 1)
         Fill: =RGBA(250, 155, 112, 1)
-        Height: =179
+        Height: =115
         Icon: =Icon.ChevronLeft
         OnSelect: =Navigate(Fisica,ScreenTransition.Fade)
         Width: =136
+        X: =1
+        Y: =32
         ZIndex: =2
 
     Label12 As label:
@@ -82,7 +84,6 @@
         Fill: =RGBA(250, 155, 112, 1)
         FontWeight: =FontWeight.Bold
         Height: =101
-        OnSelect: =Navigate(Vectors,ScreenTransition.Fade)
         Size: =28
         Text: ="Vector multiplication"
         Width: =520

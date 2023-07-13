@@ -44,7 +44,7 @@ Vectors As screen:
             ="Reinforce what you've learned:"
         Width: =488
         X: =32
-        Y: =755
+        Y: =791
         ZIndex: =14
 
     Icon3 As icon.Link:
@@ -53,19 +53,9 @@ Vectors As screen:
         Height: =55
         Icon: =Icon.Link
         Width: =46
-        X: =62
-        Y: =905
+        X: =32
+        Y: =925
         ZIndex: =15
-
-    HtmlText1 As htmlViewer:
-        Height: =70
-        HtmlText: |-
-            ="<a href='https://www.youtube.com/watch?v=IrTeyyzerjI&pp=ygUYaW50cm9kdWNjacOzbiBhIHZlY3RvcmVz>Click here</a>"
-        Size: =27
-        Width: =207
-        X: =126
-        Y: =843
-        ZIndex: =16
 
     HtmlText2 As htmlViewer:
         Fill: =RGBA(250, 155, 112, 1)
@@ -73,8 +63,8 @@ Vectors As screen:
         HtmlText: |-
             ="<a href='https://quizizz.com/join/pre-game/running/U2FsdGVkX1%252BY28jpQjidw7PVms0oajFNrijtzr2PVCZb%252F7lugQyWF4I%252B2z9Z94u%252Buloso0YREyOYEe8VNSyyTOhomXsco8GyaaaEEvG2JVY%253D/start'>Click here</a>"
         Width: =175
-        X: =108
-        Y: =905
+        X: =78
+        Y: =925
         ZIndex: =17
 
     Label11 As label:
@@ -84,8 +74,8 @@ Vectors As screen:
         Text: |-
             ="Lesson #1"
         Width: =560
-        X: =39
-        Y: =262
+        X: =32
+        Y: =242
         ZIndex: =18
 
     Label13 As label:
@@ -94,6 +84,6 @@ Vectors As screen:
         Text: ="Informative video"
         Width: =560
         X: =32
-        Y: =312
+        Y: =292
         ZIndex: =19
 

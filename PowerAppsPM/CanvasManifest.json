@@ -110,11 +110,11 @@
     "DocumentType": "App",
     "EnableInstrumentation": false,
     "FileID": "dbc1eec4-13c4-442b-b06a-0357457cfc8b",
-    "Id": "62a35456-6251-4bbe-9eed-3b3250bebed5",
+    "Id": "e87d016a-4774-49f5-a4c5-582f720a5aa0",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
     "ManualOfflineProfileId": "",
-    "Name": "Bridge Academy",
+    "Name": "Bridge+Academy.msapp",
     "OriginatingVersion": "1.333",
     "ParserErrorCount": 0,
     "ShowStatusBar": false
